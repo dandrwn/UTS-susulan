@@ -24,7 +24,7 @@ while(not o):
 print("=" * 10 )
 print("Bilangan Terbesar :",max(n))
 ```
-Hasilnya
+Hasilnya<br>
 ![h](pics/hasil.png)
 
 
